@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659676856965",
+    "firebase_url": "https://pompe-6497a-default-rtdb.firebaseio.com",
+    "project_id": "pompe-6497a",
+    "storage_bucket": "pompe-6497a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659676856965:android:346db8c543103c804e5fec",
+        "android_client_info": {
+          "package_name": "com.example.pump_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzH8XgO5lbcnJl_d4CHO9o5PfgOdS_aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
