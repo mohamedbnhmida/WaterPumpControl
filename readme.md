@@ -1,3 +1,14 @@
+<img src="docs/banner.png" alt="Water Pump Control" width="100%">
+
+**▶ Live demo: [mohamedbenhmida-waterpump.web.app](https://mohamedbenhmida-waterpump.web.app)**
+
+> The web demo shows the interface only: sign-in, push alerts and pump control need the Android app and the hardware.
+
+<p align="center">
+  <img src="docs/screenshots/waterpump_desktop.png" alt="Water Pump Control on desktop" width="70%">
+  <img src="docs/screenshots/waterpump_mobile.png" alt="Water Pump Control on mobile" width="24%">
+</p>
+
 💧 Water Pump Control System
 
 This project combines a Flutter mobile application and Arduino-based hardware to control a water pump with advanced features, such as automatic operation based on temperature and current, scheduling, authentication, and historical data visualization using charts.
